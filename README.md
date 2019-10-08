@@ -24,4 +24,4 @@
 `npm run serve`
 
 ### Open your browser
-Open youre browser on `localhost:5000`
+Open youre browser on url `localhost:5000`
